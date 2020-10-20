@@ -4,7 +4,8 @@
   "private": true,
   "dependencies": {
     "@mikecousins/react-pdf": "^5.5.1",
-    "@phuocng/react-pdf-viewer": "^1.7.0",
+    "@react-pdf-viewer/core": "^2.0.1",
+    "@react-pdf-viewer/default-layout": "^2.0.1",
     "@react-pdf/renderer": "^1.6.11",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -14,7 +15,7 @@
     "material-design-icons": "^3.0.1",
     "mgr-pdf-viewer-react": "^1.0.3",
     "pdf-viewer-reactjs": "^2.1.1",
-    "pdfjs-dist": "^2.4.456",
+    "pdfjs-dist": "^2.5.207",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-file-viewer": "^1.2.1",
